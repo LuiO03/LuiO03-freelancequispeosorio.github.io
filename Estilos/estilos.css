@@ -31,11 +31,11 @@
 	position: relative;
 	bottom: auto;
 	left: auto;
-	margin: 20px;
+	margin: 10px;
 }
 
 .banner__foto img{
-	width: 18%;
+	width: 15%;
 	border-radius: 150px;
 
 }
