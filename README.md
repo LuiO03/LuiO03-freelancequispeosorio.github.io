@@ -1,2 +1,2 @@
-# LuiO03-freelancequispeosorio.github.io
+freelancequispeosorio.github.io
 Pagina Web enfocada en mi persona...
